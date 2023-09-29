@@ -5,7 +5,7 @@ import numpy as np
 diabetics_model=pickle.load(open('https://github.com/teja96764247/MULTIPLE-DISEASE-PREDICTIVE-SYSTEM./blob/main/diabetic_model.sav','rb'))
 
 
-parkinsson_model=pickle.load(open('D:\machine learning projects\MULTIPLE DISEASE PREDICTION\multiple_disease/parkinsson_disease.sav','rb'))
+parkinsson_model=pickle.load(open('https://github.com/teja96764247/MULTIPLE-DISEASE-PREDICTIVE-SYSTEM./blob/main/parkinsson_disease.sav','rb'))
 
 
 

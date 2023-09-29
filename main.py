@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 import numpy as np
-diabetics_model=pickle.load(open('https://github.com/teja96764247/MULTIPLE-DISEASE-PREDICTIVE-SYSTEM./blob/main/diabetic_model.sav','rb'))
+diabetics_model=pickle.load(open('diabetic_model.sav','rb'))
 
 
 parkinsson_model=pickle.load(open('https://github.com/teja96764247/MULTIPLE-DISEASE-PREDICTIVE-SYSTEM./blob/main/parkinsson_disease.sav','rb'))
